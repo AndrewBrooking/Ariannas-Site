@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import SidePanel from './SidePanel';
 import TabNav from './TabNav';
 
